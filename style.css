@@ -8,7 +8,7 @@
   border: 1px solid black;
   background-color: #f5f0f6;
   margin-bottom: 1rem;
-  box-shadow: 5px 10px rgba(65, 51, 122, 0.7);
+  box-shadow: 5px 10px 5px rgba(65, 51, 122, 0.7);
 }
 
 .bar {
